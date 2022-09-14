@@ -1,0 +1,15 @@
+C:\Users\Sandra Gomes\Repos\Meus Repositorios\Class Math2\Class Math2\Class Math2\obj\Debug\net6.0\Class Math2.csproj.AssemblyReference.cache
+C:\Users\Sandra Gomes\Repos\Meus Repositorios\Class Math2\Class Math2\Class Math2\obj\Debug\net6.0\Class Math2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sandra Gomes\Repos\Meus Repositorios\Class Math2\Class Math2\Class Math2\obj\Debug\net6.0\Class Math2.AssemblyInfoInputs.cache
+C:\Users\Sandra Gomes\Repos\Meus Repositorios\Class Math2\Class Math2\Class Math2\obj\Debug\net6.0\Class Math2.AssemblyInfo.cs
+C:\Users\Sandra Gomes\Repos\Meus Repositorios\Class Math2\Class Math2\Class Math2\obj\Debug\net6.0\Class Math2.csproj.CoreCompileInputs.cache
+C:\Users\Sandra Gomes\Repos\Meus Repositorios\Class Math2\Class Math2\Class Math2\bin\Debug\net6.0\Class Math2.exe
+C:\Users\Sandra Gomes\Repos\Meus Repositorios\Class Math2\Class Math2\Class Math2\bin\Debug\net6.0\Class Math2.deps.json
+C:\Users\Sandra Gomes\Repos\Meus Repositorios\Class Math2\Class Math2\Class Math2\bin\Debug\net6.0\Class Math2.runtimeconfig.json
+C:\Users\Sandra Gomes\Repos\Meus Repositorios\Class Math2\Class Math2\Class Math2\bin\Debug\net6.0\Class Math2.dll
+C:\Users\Sandra Gomes\Repos\Meus Repositorios\Class Math2\Class Math2\Class Math2\bin\Debug\net6.0\Class Math2.pdb
+C:\Users\Sandra Gomes\Repos\Meus Repositorios\Class Math2\Class Math2\Class Math2\obj\Debug\net6.0\Class Math2.dll
+C:\Users\Sandra Gomes\Repos\Meus Repositorios\Class Math2\Class Math2\Class Math2\obj\Debug\net6.0\refint\Class Math2.dll
+C:\Users\Sandra Gomes\Repos\Meus Repositorios\Class Math2\Class Math2\Class Math2\obj\Debug\net6.0\Class Math2.pdb
+C:\Users\Sandra Gomes\Repos\Meus Repositorios\Class Math2\Class Math2\Class Math2\obj\Debug\net6.0\Class Math2.genruntimeconfig.cache
+C:\Users\Sandra Gomes\Repos\Meus Repositorios\Class Math2\Class Math2\Class Math2\obj\Debug\net6.0\ref\Class Math2.dll
