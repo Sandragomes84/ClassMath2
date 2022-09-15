@@ -20,11 +20,7 @@ namespace Class_Math2
             {
                 return x;
             }
-            else  
-            {
                 return y;
-            }
-           
 
         }
 
@@ -34,19 +30,17 @@ namespace Class_Math2
             {
                 return x;
             }
-            else
-            {
+            
                 return y;
-            }
+            
         }
 
         public static bool AreEqual(int x, int y)
         {
-            if (x == y)
-            {
-                return true;
-            }
-            else { return false; }
+            
+            
+                return (x == y);
+            
 
         }
 
